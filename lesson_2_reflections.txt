@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git creates a repository for a directory, which we need to do to be able to create commits for these files.
