@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+  When I want to collaborate or share with others, so they can have access via the remote repository;
+  Or when I am working with different machines myself, and want access to the repository from each machine;
+  Or simply to have a fully up-to-date backup copy available online.
